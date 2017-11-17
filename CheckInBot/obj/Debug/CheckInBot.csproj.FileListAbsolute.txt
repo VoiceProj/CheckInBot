@@ -1,0 +1,101 @@
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe.config
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\CheckInBot.pdb
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.AppContext.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Console.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.IO.Compression.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Net.Http.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\Telegram.Bot.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\CheckInBot\CheckInBot\obj\Debug\CheckInBot.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\CheckInBot\CheckInBot\obj\Debug\CheckInBot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CheckInBot\CheckInBot\obj\Debug\CheckInBot.exe
+C:\Users\User\source\repos\CheckInBot\CheckInBot\obj\Debug\CheckInBot.pdb
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\CheckInBot\CheckInBot\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe.config
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\CheckInBot.pdb
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\EntityFramework.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.AppContext.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Console.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.IO.Compression.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Net.Http.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Net.Sockets.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\EntityFramework.xml
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\obj\Debug\CheckInBot.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\obj\Debug\CheckInBot.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\obj\Debug\CheckInBot.exe
+C:\Users\Max\Desktop\CheckInBot\CheckInBot\obj\Debug\CheckInBot.pdb
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe.config
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.pdb
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\EntityFramework.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.AppContext.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Console.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.IO.Compression.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Net.Http.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Net.Sockets.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\EntityFramework.xml
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\obj\Debug\CheckInBot.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\obj\Debug\CheckInBot.exe
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\obj\Debug\CheckInBot.pdb
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\obj\Debug\CheckInBot.BotService.resources
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\obj\Debug\CheckInBot.ProjectInstaller.resources
+C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\obj\Debug\CheckInBot.csproj.GenerateResource.Cache

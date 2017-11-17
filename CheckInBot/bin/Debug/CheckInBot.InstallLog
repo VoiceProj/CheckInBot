@@ -1,0 +1,47 @@
+﻿Выполняется установка сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+Устанавливается служба BotService...
+Служба BotService успешно установлена.
+Создается исходный EventLog BotService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+Выполняется установка сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+Устанавливается служба BotService...
+Создается исходный EventLog BotService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+Восстанавливается исходное состояние журнала событий для источника BotService.
+Выполняется удаление сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+Выполняется удаление источника EventLog BotService.
+Выполняется удаление службы BotService из системы...
+Служба BotService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
+Устанавливается служба BotService...
+Служба BotService успешно установлена.
+Создается исходный EventLog BotService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.InstallLog
+   assemblypath = C:\Users\Max\Desktop\Курс С#\Autumn\Мажанов\CheckInBot\CheckInBot\bin\Debug\CheckInBot.exe
